@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/EL-BID/idb-osm-extraction-tool/blob/develop/IDB_logo.jpg">
+<img align="right" width="234" height="100" src="https://github.com/EL-BID/idb-osm-extraction-tool/blob/develop/IDB_logo.jpg">
 
 ## IDB OSM Extraction Tool
 ### Description and Context
