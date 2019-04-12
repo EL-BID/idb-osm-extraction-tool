@@ -8,7 +8,7 @@
 
 Friendly front-end for querying OSM features around Guyana from the
 [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) and
-extracting them as a Shapefile.
+extracting them as a Shapefile. The frontend of the OSM extraction tool can be accessed [here](https://idb-osm-extraction-tool.netlify.com/). 
 
 <img src="https://user-images.githubusercontent.com/1014341/54622607-3e97aa00-4a40-11e9-9640-3596cf3270a7.png" width=512>
 
