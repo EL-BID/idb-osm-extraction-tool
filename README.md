@@ -5,7 +5,8 @@
 ---
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/32028b66-fa0e-409e-a97a-58cf4d3359dc/deploy-status)](https://app.netlify.com/sites/idb-osm-extraction-tool/deploys)
-
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/idb-osm-extraction-tool/readme?useReferer)](https://github.com/EL-BID/idb-osm-extraction-tool)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_idb-osm-extraction-tool&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_idb-osm-extraction-tool)
 Friendly front-end for querying OSM features around Guyana from the
 [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) and
 extracting them as a Shapefile. The frontend of the OSM extraction tool can be accessed [here](https://idb-osm-extraction-tool.netlify.com/). Use is free and requires no account.
